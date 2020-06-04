@@ -6,6 +6,8 @@
 #include <chrono>
 using namespace std::chrono;
 
+//teste do git
+
 void imprime_demandas(Rede &rede){
     cout<<"TEBLA DE DEMANDAS: "<<endl;
     for(int i = 0; i<rede.n; i++){
